@@ -1,0 +1,40 @@
+* {
+    color: darkgreen;
+}
+
+body {
+    background: rgb(253, 251, 251);
+}
+
+.header {
+    background-color: darkgreen;
+    padding-top: 1px;
+    top: 0%;
+    text-align: center;
+    
+}
+
+.header h1 {
+    color: white;
+}
+
+.footer {
+    background-color: darkgreen;
+    color: white;
+    font-size: 30px;
+}
+
+
+.photoname {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.learnedlist {
+    display: inline-block;
+    padding-right: 50px;
+    
+}
+
+.tolearnlist {
+    display: inline-block;
+}
