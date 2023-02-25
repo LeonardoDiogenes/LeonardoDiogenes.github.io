@@ -1,5 +1,6 @@
 * {
-    color: darkgreen;
+    color: #033f02;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -7,16 +8,38 @@ body {
 }
 
 .header {
-    background-color: darkgreen;
-    padding-top: 1px;
-    top: 0%;
+    background-color: #002a00;
     text-align: center;
-    
+    padding-top: 1px;
+    margin: auto;
 }
 
 .header h1 {
     color: white;
+    font-style: italic;
 }
+
+
+.align {
+    display: inline-block;
+}
+
+.photoname img {
+    margin-top: auto;
+    width: 250px;
+}
+
+
+.photoname {
+    display: inline-block;
+}
+
+.bio {
+    display: inline-block;
+    margin: auto;
+    padding-left: 10px;
+}
+
 
 .footer {
     background-color: darkgreen;
@@ -24,10 +47,6 @@ body {
     font-size: 30px;
 }
 
-
-.photoname {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .learnedlist {
     display: inline-block;
